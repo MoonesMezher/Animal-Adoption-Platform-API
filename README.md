@@ -1,7 +1,7 @@
 # Task 4 - Animal Adoption Platform API Documentation
 
 ## Project Structure
-```json
+```txt
 src/
     routes/
         pets.route.js
